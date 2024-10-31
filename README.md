@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @shorifulislamsiam
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI 
 - 🌱 I’m currently learning FLUTTER
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for a vitalize, learning, eco-friendly internship.
+- 📫 Contact- shorifulislamsiam18@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-shorifulislamsiam/shorifulislamsiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am looking something unique object/area that can help me to develop my learning speed. Android apps developing was my young age love, my attraction on ML and my passionate on learning python deeply. 
+Let's addressing to the earth something new, effective and potential thing together.
+By the way interested on tourism, playing football & cricket.
+------ Of course every creaturs has to taste death------
