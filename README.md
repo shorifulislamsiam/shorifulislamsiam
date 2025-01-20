@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @shorifulislamsiam
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning FLUTTER
-- 💞️ I’m looking for a vitalize, learning, eco-friendly internship.
-- 📫 Contact- shorifulislamsiam18@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Shoriful Islam Siam.
+- 👀 A passionate Mobile App developer.
+- 📫 Contact me - shorifulislamsiam18@gmail.com
+- 😄 Ask me about Flutter, Dart. 
+- ⚡ Fun fact: Let's enjoy the apps developing journey.
 
 
-=>💖I am looking something unique object/area that can help me to develop my learning speed. Android apps developing was my young age love, my attraction on ML and my passionate on learning python deeply.                                                                    
-=>Let's addressing to the earth something new, effective and potential thing together.                                                                                                                                                                                          
-=>Interested on traveling, playing football & cricket.                                                                                                                                                                                                                  
+=>💖I am looking something unique object/area that can help me to develop my learning speed.
+=>App development is my young age love, my attraction to it, and my passion to live in this journey.                                                                    
+=> Let's addressing to the earth something new, effective and potential thing together. 
+=> I’m interested in AI
+=> Interested on traveling, playing football & cricket.                                                                                                                                                                                                                  
 ------ Of course every creaturs has to taste death------
